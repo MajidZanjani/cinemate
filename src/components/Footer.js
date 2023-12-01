@@ -16,6 +16,7 @@ export const Footer = () => {
             href="https://www.linkedin.com/in/majidzanjani/"
             target="_blank"
             className="hover:underline md:mr-6"
+            rel="noreferrer"
           >
             LinkedIn
           </a>
@@ -25,6 +26,7 @@ export const Footer = () => {
             href="https://github.com/MajidZanjani"
             target="_blank"
             className="hover:underline md:mr-6"
+            rel="noreferrer"
           >
             Github
           </a>
@@ -34,6 +36,7 @@ export const Footer = () => {
             href="https://www.instagram.com/majid_zanjani/"
             target="_blank"
             className="hover:underline md:mr-6"
+            rel="noreferrer"
           >
             Instagram
           </a>
